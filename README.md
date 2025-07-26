@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ayoub 👋
 
-<!--
-**ayoubhafid-dev/ayoubhafid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about learning and building software.
 
-Here are some ideas to get you started:
+💻 I'm currently working with:
+- X
+- X
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm learning about:
+- X
+- X
+- X
+
+🛠️ Projects:
+- X
+- X
+- X
+
+📫 You can find me on:
+[LinkedIn](www.linkedin.com/in/ayoubhafid-dev)
