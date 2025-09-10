@@ -14,4 +14,4 @@
 - Web Development
 
 📫 You can find me on:
-[LinkedIn](www.linkedin.com/in/ayoubhafid-dev)
+[LinkedIn](https://www.linkedin.com/in/ayoubhafid-dev)
